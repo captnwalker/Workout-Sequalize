@@ -8,7 +8,7 @@
 
 This app has been deployed to Heroku and can be used by clicking the link below:
 
-(https://git.heroku.com/stark-taiga-68019.git "WorkoutPlanner")
+(https://git.heroku.com/stark-taiga-68019.git "WorkoutPlanner-Sequalized")
 
 ### Screenshots of this Project
 
