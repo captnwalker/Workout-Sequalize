@@ -107,23 +107,6 @@ app.delete("/exercises/:id", function (req, res) {
   });
 });
 
-// Mark Exercise Cpmpleted
-// app.completed("/exercises/:completed", function(func, bool) {
-//   connection.query("Completed exercises WHERE completed = true", [req.params.completed], function(err, result) {
-//     if (err) {
-//       // If an error occurred, send a generic server faliure
-//       return res.status(500).end();
-//     }
-//     else if (result.affectedRows === 0) {
-//       // If no rows were changed, then the ID must not exist, so 404
-//       return res.status(404).end();
-//     }
-//     res.status(200).end();
-
-//   });
-// });
-
-/////////////////////////////////////////////
 
 app.listen(port, function () {
   console.log("Workout Planner is now listening on port", port);

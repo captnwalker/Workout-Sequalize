@@ -1,4 +1,4 @@
-# WorkoutPlanner :muscle:
+# WorkoutPlanner - Sequalized :muscle:
 
 ## Purpose of this project
 
@@ -16,6 +16,7 @@ This app has been deployed to Heroku and can be used by clicking the link below:
 
 ### Technologies Utilized
 
+* Sequalize
 * Ajax
 * JSON
 * NodeJS
